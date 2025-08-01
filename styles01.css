@@ -1,5 +1,8 @@
    body {
        background-color: darkorchid);
+       box-shadow: -26px 32px 35px 0px rgba(201,27,27,0.44);
+-webkit-box-shadow: -26px 32px 35px 0px rgba(201,27,27,0.44);
+-moz-box-shadow: -26px 32px 35px 0px rgba(201,27,27,0.44);
    }
    h1 {
        background-color:lightseagreen;
@@ -12,7 +15,7 @@
       color: yellow;
       background-color:Gray;
       text-align: center;
-      border:10px solid Violet;
+      border:border:8px solid #5072ff;
    }
 
    p {
